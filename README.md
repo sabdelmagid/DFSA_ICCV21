@@ -26,6 +26,8 @@ https://drive.google.com/file/d/1bT7KRIG_ZQGzDEwDqyx0I3W5sUDR31D7/view?usp=shari
 
 ### Citation
 If you find the code helpful in your resarch or work, please cite the following papers:
+
+Our paper:
 ```
 @inproceedings{abdelmagid2021dynamic,
   title={Dynamic High-Pass Filtering and Multi-Spectral Attention for Image Super-Resolution},
@@ -34,8 +36,11 @@ If you find the code helpful in your resarch or work, please cite the following 
   pages={4288--4297},
   year={2021}
 }
+```
 
+Others used:
 
+```
 @InProceedings{Lim_2017_CVPR_Workshops,
   author = {Lim, Bee and Son, Sanghyun and Kim, Heewon and Nah, Seungjun and Lee, Kyoung Mu},
   title = {Enhanced Deep Residual Networks for Single Image Super-Resolution},
