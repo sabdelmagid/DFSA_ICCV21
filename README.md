@@ -50,6 +50,21 @@ If you find the code helpful in your resarch or work, please cite the following 
     booktitle={ECCV},
     year={2018}
 }
+
+@article{qin2020fcanet,
+  title={Fcanet: Frequency channel attention networks. arXiv},
+  author={Qin, Z and Zhang, P and Wu, F and Li, X},
+  journal={arXiv preprint arXiv:2012.11879},
+  year={2020}
+}
+
+@article{zou2020delving,
+  title={Delving deeper into anti-aliasing in convnets},
+  author={Zou, Xueyan and Xiao, Fanyi and Yu, Zhiding and Lee, Yong Jae},
+  journal={arXiv preprint arXiv:2008.09604},
+  year={2020}
+}
+
 ```
 
 ### Acknowledgements
