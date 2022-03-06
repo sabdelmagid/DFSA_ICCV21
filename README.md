@@ -31,7 +31,7 @@ Our paper:
 ```
 @inproceedings{abdelmagid2021dynamic,
   title={Dynamic High-Pass Filtering and Multi-Spectral Attention for Image Super-Resolution},
-  author={Magid, Salma Abdel and Zhang, Yulun and Wei, Donglai and Jang, Won-Dong and Lin, Zudi and Fu, Yun and Pfister, Hanspeter},
+  author={Abdel Magid, Salma  and Zhang, Yulun and Wei, Donglai and Jang, Won-Dong and Lin, Zudi and Fu, Yun and Pfister, Hanspeter},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   pages={4288--4297},
   year={2021}
